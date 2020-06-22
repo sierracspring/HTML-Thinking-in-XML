@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie category="adventure">
+        <title lang="en">Inglorious Basterds</title>
+        <director>Quentin Tarantino</director>
+        <year>2009</year>
+        <duration>2h 33min</duration>
+        <rating>R</rating>
+    </movie>
+    <br>
+    <movie category="action">
+        <title lang="en">Scott Pilgrim vs. the World</title>
+        <director>Edgar Wright</director>
+        <year>2010</year>
+        <duration>1h 52min</duration>
+        <rating>PG-13</rating>
+    </movie>
+    <br>
+    <movie caterogy="drama">
+        <title lang="en">What's Eating Gilbert Grape</title>
+        <director>Lasse Hallstrom</director>
+        <year>1994</year>
+        <duration>1h 58min</duration>
+        <raing>PG-13</rating>
+    </movie>
+    <br>
+    <movie category="drama">
+        <title lang="en">The Wolf of Wall Street</title>
+        <director>Martin Scorsese</director>
+        <year>2013</year>
+        <duration>3h</duration>
+        <rating>R</rating>
+    </movie>
+    <br>
+    <movie category="horror">
+        <title lang="en">The Shining</title>
+        <director>Stanley Kubrick</director>
+        <year>1980</year>
+        <duration>2h 26min</duration>
+        <rating>R</rating>
+    </movie>
+    <br>
+</movies> 
+<br>
+<actors>
+    <actor category="male">
+        <name>Brad Pitt</name>
+        <birthdate>12-18-1963</brithdate>
+        <hometown>Shawnee, Oklahoma, USA</hometown>
+        <awards>2 Oscars</awards>
+        <starsign>Sagittarius</starsign>
+    </actor>
+    <br>
+    <actor cateogry="male">
+        <name>Leonardo DiCaprio</name>
+        <birthdate>11-11-1974</birthdate>
+        <hometown>Los Angeles, California, USA</hometown>
+        <awards>1 Oscar</awards>
+        <starsign>Scorpio</starsign>
+    </actor>
+    <br>
+    <actor category="male">
+        <name>Edward Norton</name>
+        <birthdate>8-18-1969</birthdate>
+        <hometown>Boston, Massachusetts, USA<hometown>
+        <awards>3 Oscars</awards>
+        <starsign>Leo</starsign>
+    </actor>
+    <br>
+    <actor category="female">
+        <name>Margot Robbie</name>
+        <birthdate>7-2-1990</birthdate>
+        <hometown>Dalby, Queensland, Australia</hometown>
+        <awards>0 Oscars</awards>
+        <starsign>Cancer</starsign>
+    </actor>
+    <br>
+    <actor category="female">
+        <name>Mila Kunis</name>
+        <birthdate>8-14-1983</birthdate>
+        <hometown>Chernovtsy, Ukrainian SSR, USSR</hometown>
+        <awards>0 Oscars</awards>
+        <starsign>Leo</starsign>
+    </actor>
+</actors>
